@@ -1,0 +1,28 @@
+Exercício (Sistema Operacional) 
+
+Aluna: Beatriz 
+Turma: 2C
+
+1- O que é um Sistema Operacional?
+R: É o conjunto de programas que fazem a interface do usuário entre seus programas com o computador.
+
+2- Quais são os três objetivos principais? Defina-os.
+R: Conveniência: uso mais fácil
+     Eficiência: tornar seguro e justo o uso dos recursos.
+     Evolução: aprimoramento e desenvolvimento de novas funções.
+
+3- O que são Periféricas e componentes?
+R: São placas ou aparelhos que recebem ou enviam informações para o computador.
+
+4- Cite 5 funcionalidades de um Sistema Operacional.
+R: 1) controlar o fluxo de dados entre os componentes.
+     2) permitir que programas sejam executados sem a interferência de outros programas.
+     3) permitir a cooperação de programas independentes.
+     4) responder aos erros e a solicitações dos usuários.
+     5) facilitar o acesso aos recursos do sistema.
+
+5- O que é a interface genericamente chamada de SHELL? 
+R: interpretador de comandos.
+
+6- O que é e para que serve o Kernel de um Sistema Operacional? 
+R: é o componente central do sistema operacional instalado no computador, e serve para fazer uma ponte entre os aplicativos, gerenciar os recursos do sistema e possibilitar a comunicação entre hardware e software.

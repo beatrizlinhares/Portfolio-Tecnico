@@ -1,0 +1,22 @@
+Exercícios Manipulação de arquivos e diretórios 
+1) 
+touch teste.txt teste2.txt teste3.txt 
+mkdir aluno 
+mv teste.txt teste2.txt teste3.txt aluno 
+touch teste2.txt 
+mkdir aulaso 
+cp aluno/teste* aulaso 
+mv aluno/teste2.txt aulaso 
+rm -f testetxt 
+2) 
+find . -name 'teste*' 
+cd aulaso 
+find . -name 't*' 
+3) 
+mkdir home 
+mkdir aluno 
+mkdir filmes 
+touch comédia aventura suspense 
+mv comédia aventura suspense filmes 
+cd filmes 
+echo nacional estrangeiro > comédia
