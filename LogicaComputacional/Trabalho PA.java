@@ -17,3 +17,5 @@ public class Main
 		System.out.println(n);
 	}
 }
+
+Escolhi essa atividade pois estavamos estudando esse mesmo conteúdo em matemática, e foi muito interessante aplica-lo em linguagem java.
